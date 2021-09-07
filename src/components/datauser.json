@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "truong",
+        "phone": "0987654321",
+        "status": 1 
+    },
+    {
+        "id": 2,
+        "name": "kfc",
+        "phone": "0464567781",
+        "status": 2
+    },
+    {
+        "id": 3,
+        "name": "grab",
+        "phone": "087654545",
+        "status": 3
+    },
+    {
+        "id": 4,
+        "name": "goviet",
+        "phone": "34567821",
+        "status": 1 
+    },
+    {
+        "id": 5,
+        "name": "bebike",
+        "phone": "56789345",
+        "status": 1 
+    }
+]
